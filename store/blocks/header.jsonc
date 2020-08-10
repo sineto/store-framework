@@ -82,7 +82,9 @@
   "rich-text#header": {
     "props": {
       "text": "**Free Shipping on orders over $50**",
-      "textPosition": "CENTER"
+      "textPosition": "CENTER",
+      "paddingRight": 4,
+      "horizontalAlign": "right"
     }
   },
   "header-row#menu": {
